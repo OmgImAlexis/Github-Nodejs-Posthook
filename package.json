@@ -1,0 +1,24 @@
+{
+  "name": "Github-Nodejs-Posthook",
+  "version": "1.0.0",
+  "description": "Auto pull git repos from Github with node.js",
+  "main": "app.js",
+  "dependencies": {
+    "exec": "^0.1.2",
+    "githubhook": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmgImAlexis/Github-Nodejs-Posthook"
+  },
+  "author": "OmgImAlexis",
+  "license": "wtfpl",
+  "bugs": {
+    "url": "https://github.com/OmgImAlexis/Github-Nodejs-Posthook/issues"
+  },
+  "homepage": "https://github.com/OmgImAlexis/Github-Nodejs-Posthook"
+}
